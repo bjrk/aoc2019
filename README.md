@@ -1,3 +1,3 @@
-#solutions for aoc 2018
+# solutions for aoc 2019
 
 All solutions are optimized for my pleasure and liking
