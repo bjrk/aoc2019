@@ -1,0 +1,27 @@
+{
+  "name": "aoc2019",
+  "version": "1.0.0",
+  "description": "All solutions are optimized for my pleasure and liking",
+  "main": "fileGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjrk/aoc2018.git"
+  },
+  "keywords": [
+    "AOC",
+    "2019"
+  ],
+  "author": "Bjrk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjrk/aoc2018/issues"
+  },
+  "homepage": "https://github.com/bjrk/aoc2018#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "node-fetch": "^2.6.0"
+  }
+}
